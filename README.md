@@ -7,7 +7,7 @@ Web site URL:  https://slm.azurewebsites.net
 **Index**
 - <a href="https://github.com/annunal/SLM/blob/main/README.md#introduction">Introduction</a>
 - <a href="https://github.com/annunal/SLM/blob/main/README.md#example-of-list-of-events">List of events</a>
-- <a href="https://github.com/annunal/SLM/blob/main/README.md#when-a-gts-message-is-present-for-an-event">When a  GTS message is present</a>
+- <a href="https://github.com/annunal/SLM/blob/main/README.md#when-a-gts-message-is-present-for-an-event">When a  GTS message is present for an events</a>
 - <a href="https://github.com/annunal/SLM/blob/main/README.md#in-case-a-gts-message-is-not-present-">In case a GTS message is not present</a>
 - <a href="https://github.com/annunal/SLM/blob/main/README.md#determination-of-tsunami-parameters">Determination of Tsunami parameters</a>
 
