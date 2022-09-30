@@ -62,8 +62,7 @@ The results is the following, displayed on the screen:
 -Other info
 - Arrival Time:  2022-09-19 18:28:0
 - Max Amplitude: 1.0 m  *(max between trough and crest minus tide)*
-- Through to Crest: 1.7 m 
-- 
+- Through to Crest: 1.7 m
 
 the data in bold are generally the relevant data to be used by Tsunami Service providers. The other information are for statistical purpose. 
 
