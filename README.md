@@ -63,7 +63,7 @@ In order to do that, you need to click 5 times on a curve
 - click #4 on a minimum (or a naximum) of the same cycle
 - click #5 on a zero at the end of the same cycle
 
-*Note: you do not need to be very precise because the system will select the closest measured mpint, even if you do not clic exactly on the curve*
+*Note: you do not need to be very precise because the system will select the closest measured point, even if you do not clic exactly on the curve*
 
 The results is the following, displayed on the screen:
 
