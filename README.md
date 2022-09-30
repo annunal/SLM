@@ -3,6 +3,7 @@
 ![image](https://user-images.githubusercontent.com/10267112/193202256-f86499b5-a709-408f-93fe-e5022eb5634f.png)
 
 Web site URL:  https://slm.azurewebsites.net
+
 Index
 - <a href="https://github.com/annunal/SLM/blob/main/README.md#introduction">Introduction</a>
 - <a href="https://github.com/annunal/SLM/blob/main/README.md#example-of-list-of-events">List of events</a>
