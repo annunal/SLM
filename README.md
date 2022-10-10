@@ -55,7 +55,8 @@ Once you show a level signal, it is possible to easily identify the parameters t
 - Wave Period (minutes)
 
 In order to do that, you need to click 4 times on a curve
-![points](https://user-images.githubusercontent.com/10267112/193201525-972f0e1e-8fb5-4d1c-b13c-ba76e3704e9a.jpg)
+![image](https://user-images.githubusercontent.com/10267112/194860601-2cc66f1d-8fcc-478c-9ca0-d14c458b6f25.png)
+
 
 - click #1 on a zero at the start of a cycle corresponding to the largest cycle
 - click #2 on a maximum (or a minimum) of the same cycle
@@ -67,7 +68,7 @@ In order to do that, you need to click 4 times on a curve
 The results is the following, displayed on the screen:
 
 - Time of Maximum: **2022-09-19 19:05**
-- Amplitude: **0.9 m** *(half trough to crest)*
+- Amplitude: **1.2 m** *(half trough to crest)*
 - Period: **33 min**
 -Other info
 - Max Amplitude: 1.0 m  *(max between trough and crest minus tide)*
