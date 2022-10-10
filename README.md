@@ -12,7 +12,7 @@ Web site URL:  https://slm.azurewebsites.net
 - <a href="https://github.com/annunal/SLM/blob/main/README.md#determination-of-tsunami-parameters">Determination of Tsunami parameters</a>
 
 
-## Introduction for an event
+## Introduction
 The Sea Level Machine is a web site that aims to provide visualization and basic analysis (amplitude and period reading) all the sea-level recordings from Tsunami events occurred since year 2000 globally. The data are obtained from the NOAA NGDC database (https://www.ngdc.noaa.gov/hazard/tsu_db.shtml). For each event the corresponding report in the Global Disaster Alerts and Coordination System (GDACS, http://www.gdacs.org) is identified and connected. This allows to extract the GTS message that were produced by the Tsunami Service Providers for that particular event, that are stored in the GDACS database.
 
 GDACS developed routines to extract from each GTS message the reported Tsunami height, period and arrival time. This allows therefore to visualize for each event which tide gauge was used by the Tsunami Service Providers during their analysis and if possible, download and process these data.
@@ -54,14 +54,13 @@ Once you show a level signal, it is possible to easily identify the parameters t
 - Maximum Amplitude (m)
 - Wave Period (minutes)
 
-In order to do that, you need to click 5 times on a curve
+In order to do that, you need to click 4 times on a curve
 ![points](https://user-images.githubusercontent.com/10267112/193201525-972f0e1e-8fb5-4d1c-b13c-ba76e3704e9a.jpg)
 
-- click #1 to identify the **Arrival time**
-- click #2 on a zero at the start of a cycle corresponding to the largest cycle
-- click #3 on a maximum (or a minimum) of the same cycle
-- click #4 on a minimum (or a naximum) of the same cycle
-- click #5 on a zero at the end of the same cycle
+- click #1 on a zero at the start of a cycle corresponding to the largest cycle
+- click #2 on a maximum (or a minimum) of the same cycle
+- click #3 on a minimum (or a naximum) of the same cycle
+- click #4 on a zero at the end of the same cycle
 
 *Note: you do not need to be very precise because the system will select the closest measured point, even if you do not clic exactly on the curve*
 
@@ -71,7 +70,6 @@ The results is the following, displayed on the screen:
 - Amplitude: **0.9 m** *(half trough to crest)*
 - Period: **33 min**
 -Other info
-- Arrival Time:  2022-09-19 18:28:0
 - Max Amplitude: 1.0 m  *(max between trough and crest minus tide)*
 - Through to Crest: 1.7 m
 
