@@ -1,4 +1,9 @@
-# Sea Level Machine
+# The Sea Level Machine (SLM)
+
+![image](https://user-images.githubusercontent.com/10267112/193202256-f86499b5-a709-408f-93fe-e5022eb5634f.png)
+
+Web site URL:  https://slm.azurewebsites.net
+
 ## Information on upload data
 
 If you want to upload data and process them,  the format is a series of lines; each line is composed of the same number of fields separated by tab or comma.
