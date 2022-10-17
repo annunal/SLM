@@ -10,7 +10,7 @@ Web site URL:  https://slm.azurewebsites.net
 - <a href="https://github.com/annunal/SLM/blob/main/README.md#when-a-gts-message-is-present-for-an-event">When a  GTS message is present for an events</a>
 - <a href="https://github.com/annunal/SLM/blob/main/README.md#in-case-a-gts-message-is-not-present-">In case a GTS message is not present</a>
 - <a href="https://github.com/annunal/SLM/blob/main/README.md#determination-of-tsunami-parameters">Determination of Tsunami parameters</a>
-- <a href="https://github.com/annunal/SLM/blob/main/infoUpload.md#the-sea-level-machine-slm">Your own data processing</a>
+- <a href="https://github.com/annunal/SLM/blob/main/README.md#your-own-data-processing">Your own data processing</a>
 
 ## Introduction
 The Sea Level Machine is a web site that aims to provide visualization and basic analysis (amplitude and period reading) all the sea-level recordings from Tsunami events occurred since year 2000 globally. The data are obtained from the NOAA NGDC database (https://www.ngdc.noaa.gov/hazard/tsu_db.shtml). For each event the corresponding report in the Global Disaster Alerts and Coordination System (GDACS, http://www.gdacs.org) is identified and connected. This allows to extract the GTS message that were produced by the Tsunami Service Providers for that particular event, that are stored in the GDACS database.
