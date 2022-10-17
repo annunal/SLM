@@ -1,4 +1,4 @@
-# Seavel Machine
+# Sea Level Machine
 ## Information on upload data
 
 If you want to upload data and process them,  the format is a series of lines; each line is composed of the same number of fields separated by tab or comma.
